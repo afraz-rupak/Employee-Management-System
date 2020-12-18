@@ -48,7 +48,6 @@ public class update_e {
                 
             }
             
-            
             /////////////////////////////////////////////////////////////////////////////////////////////////////////
             System.out.println("which one you like to update"+"\nplease press the number: ");
             int op = input.nextInt();
