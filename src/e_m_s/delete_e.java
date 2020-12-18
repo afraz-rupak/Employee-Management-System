@@ -47,7 +47,7 @@ public class delete_e {
             /////////////////////////////////////////////////
             
             System.out.println("Confirm the infromation of empolyee"+"\n");
-            System.out.println("Do you remove this infromation in the database?");
+            System.out.println("Do you want to remove this infromation in the database?");
             System.out.println("1. yes");
             System.out.println("2. no");
             System.out.println("\nPress the option number : ");
